@@ -4,17 +4,17 @@ I appreciate this repository.
 
 # laravel-starter(sanctum)
 
-This repository is starter kit to create your new project.<br>
+This repository is starter kit to create your new project(API).<br>
 
-Included sanctum. 
+Included Sanctum. 
 
 ## Usage
 
 ```bash
-$ git clone git@github.com:ucan-lab/docker-laravel.git
-$ cd laravel-starter
-$ make create-project # Install the latest Laravel project
-$ make install-recommend-packages # Optional
+$ git clone git@github.com:You-saku/Laravel_API_Stater_Kit_Sanctum.git
+$ cd Laravel_API_Stater_Kit_Sanctum
+$ docker-compose up -d
+$ docker-compose exec php composer install
 ```
 
 http://localhost
